@@ -2,11 +2,11 @@
 /**
  * Globally-accessible functions
  *
- * @link 		http://slushman.com
+ * @link 		
  * @since 		1.0.0
  *
- * @package		Now_Hiring
- * @subpackage 	Now_Hiring/includes
+ * @package		
+ * @subpackage 	/includes
  */
 
 /**

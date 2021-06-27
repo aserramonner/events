@@ -5,11 +5,11 @@
  *
  * This file is used to markup the archive loop.
  *
- * @link       http://slushman.com
+ * @link       
  * @since      1.0.0
  *
- * @package    Now_Hiring
- * @subpackage Now_Hiring/public/partials
+ * @package    
+ * @subpackage /public/partials
  */
 
 /**

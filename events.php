@@ -8,19 +8,19 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://
+ * @link              https://github.com/aserramonner/events
  * @since             1.0.0
  * @package           Events
  *
  * @wordpress-plugin
  * Plugin Name:       Events
- * Plugin URI:        https://
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Plugin URI:        https://github.com/aserramonner/events
+ * Description:       Variation of wp-event-list by mibuthu. Uses the same post_type, so be careful. 
  * Version:           1.0.0
  * Author:            Albert Serra
- * Author URI:        https://
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * Author URI:        https://github.com/aserramonner
+ * License:           GPL-3.0+
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       events
  * Domain Path:       /languages
  */

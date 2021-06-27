@@ -3,7 +3,7 @@
 /**
  * Provide the view for a metabox
  *
- * @link 		http://slushman.com
+ * @link 		
  * @since 		1.0.0
  *
  * @package 	Events
