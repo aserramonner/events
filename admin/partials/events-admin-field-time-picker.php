@@ -3,11 +3,11 @@
 /**
  * Provides the markup for any text field
  *
- * @link       http://slushman.com
+ * @link       
  * @since      1.0.0
  *
- * @package    Now_Hiring
- * @subpackage Now_Hiring/admin/partials
+ * @package    
+ * @subpackage /admin/partials
  */
 
 if ( ! empty( $atts['label'] ) ) {

@@ -3,18 +3,18 @@
 /**
  * The public & admin-facing shared functionality of the plugin.
  *
- * @link 		http://slushman.com
+ * @link 		
  * @since 		1.0.0
  *
- * @package 	Now_Hiring
- * @subpackage 	Now_Hiring/includes
+ * @package 	
+ * @subpackage 	/includes
  */
 
 /**
  * The public & admin-facing shared functionality of the plugin.
  *
- * @package 	Now_Hiring
- * @subpackage 	Now_Hiring/includes
+ * @package 	
+ * @subpackage 	/includes
  * @author 		Slushman <chris@slushman.com>
  */
 
@@ -45,7 +45,7 @@ class Events_Shared {
 	 * Initialize the class and set its properties.
 	 *
 	 * @since 		1.0.0
-	 * @param 		string 			$Now_Hiring 		The name of this plugin.
+	 * @param 		string 			$ 		The name of this plugin.
 	 * @param 		string 			$version 			The version of this plugin.
 	 */
 	public function __construct( $plugin_name, $version ) {

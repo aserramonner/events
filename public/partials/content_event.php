@@ -57,7 +57,7 @@ $hhmm = date_i18n('G:i', $startdate);
         </span>
         <?php if ('' != $meta['buynow'][0]) { ?>
             <p><span>
-                <button onclick="parent.open('')";>
+                <button onclick="parent.open('<?php echo $meta['buynow'][0] ?>')";>
                 Entrades 
                 </button>
             </span></p>
